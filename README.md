@@ -78,3 +78,17 @@ python run.py \
 - Python800: https://developer.ibm.com/exchanges/data/all/project-codenet/
 - Refactory: https://github.com/githubhuyang/refactory
 - CodRep: https://github.com/KTH/CodRep-competition
+
+## Citation
+If you use the code in your research, please cite:
+```bibtex
+    @inproceedings{dong2023mixcode,
+      title={MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation},
+      author={Dong, Zeming and Hu, Qiang and Guo, Yuejun and Cordy, Maxime and Papadakis, Mike and Zhang, Zhenya and Le Traon, Yves and Zhao, Jianjun},
+      booktitle={2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+      pages={379--390},
+      year={2023},
+      organization={IEEE}
+}
+}
+```
