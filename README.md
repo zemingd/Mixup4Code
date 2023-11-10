@@ -89,6 +89,5 @@ If you use the code in your research, please cite:
       pages={379--390},
       year={2023},
       organization={IEEE}
-}
-}
+    }
 ```
