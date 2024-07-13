@@ -1,5 +1,7 @@
 # MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation
-Implementaion of SANER2023 paper MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation [[arxiv]](https://arxiv.org/abs/2210.03003).
+Implementation of SANER2023 paper MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation [[arxiv]](https://arxiv.org/abs/2210.03003).
+
+We build this project on the top of [Project_CodeNet](https://github.com/IBM/Project_CodeNet). Please refer to this project for more details.
 
 ## Introduction
 MIXCODE aims to effectively supplement valid training data without manually collecting or labeling new code, inspired by the recent advance named Mixup in computer vision. Specifically, 1) first utilize multiple code refactoring methods to generate transformed code that holds consistent labels with the original data; 2) adapt the Mixup technique to linearly mix the original code with the transformed code to augment the training data.
