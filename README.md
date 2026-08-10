@@ -1,3 +1,5 @@
+
+
 # MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation
 Implementation of SANER2023 paper MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation [[arxiv]](https://arxiv.org/abs/2210.03003).
 
@@ -32,7 +34,7 @@ cuDNN (>=7.6)
 
 ## CodeBERT/GraphCodeBERT for Classification Tasks
 
-- pip install torch==1.4.0
+- pip install torch==1.6.0
 - pip install transformers==2.5.0
 - pip install filelock
 
